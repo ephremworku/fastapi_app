@@ -65,3 +65,9 @@ Start Docker containers:
 ```sh
 docker-compose up -d
 ```
+4. to submit the form
+
+```sh
+http://localhost/register
+```
+by going the above link you can submit a form
