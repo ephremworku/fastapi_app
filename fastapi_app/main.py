@@ -10,4 +10,4 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 
 Base.metadata.create_all(bind=engine)
 
-app.include_router(endpoints.router, prefix="/api/v1")
+app.include_router(endpoints.router)
