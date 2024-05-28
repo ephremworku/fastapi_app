@@ -46,12 +46,12 @@ The architecture consists of the following components:
 - Docker Compose
 
 ### Installation
-1. Clone the project repository:
-   ```bash
-  https://github.com/ephremworku/fastapi_app.git
-  ``` 
+1. Clone the project repository:  
+   ```sh
+   git clone https://github.com/ephremworku/fastapi_app.git
+    ``` 
 
-2. Configuration
+3. Configuration
 
 No additional configuration is required. However, you may customize the NGINX configuration if needed.
 Running the Application
