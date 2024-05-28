@@ -1,4 +1,4 @@
-# FastAPI Application with NGINX Reverse Proxy
+# Asgi FastAPI Application with NGINX Reverse Proxy
 
 ## Overview
 This project is a demonstration of a FastAPI application running behind an NGINX reverse proxy. The FastAPI application serves a simple RESTful API, and NGINX acts as a reverse proxy to forward requests to the FastAPI application.
